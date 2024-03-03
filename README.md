@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhvang&label=Profile%20views&color=0e75b6&style=flat" alt="shhvang" /> </p>
 
-- 🔭 I’m currently working on [IO.Music](github.com/Notmonarch/io.music)
+- 🔭 I’m currently working on [IO.Music](github.com/shhvang/io.music)
 
 - 🌱 I’m currently playing and learning with **Botmaking**
 
