@@ -6,8 +6,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shhvang&label=Profile%20views&color=0e75b6&style=flat" alt="shhvang" />
 </p>
-
-👨‍💻 **Owner of Opacity**  
+ 
 🔧 Currently working on ---  
 🌱 Exploring **bot development**  
 📬 Reach me on [Telegram](https://t.me/shhvang)  
